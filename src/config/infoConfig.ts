@@ -6,7 +6,7 @@ export * from './career'
 export const name = '流月'
 export const headline = '流萤绕砌夜初静，月满西楼梦正酣。'
 export const introduction =
-  "本站还未完成，正在努力完善中。请耐心等待。"
+  "本站还未完成，正在努力完善中。目前网站大部分内容不属实，纯属虚构。"
 export const email = 'gbhf0020.gmail.com'
 export const githubUsername = 'gbhf0020'
 
