@@ -11,17 +11,18 @@ export const email = 'gbhf0020.gmail.com'
 export const githubUsername = 'gbhf0020'
 
 // about page
-export const aboutMeHeadline = 'Who Are You and Why Should I Care?'
+export const aboutMeHeadline = '关于流月'
 export const aboutParagraphs = [
-  "Coucou Les Amis! My name is Derek Hu. I'm from Hubei and an alumnus of BUPT, UChicago, and Tsinghua. I’ve been teaching Computer Science at SCLS since 2020.",
-  'Currently I am working on a new course called AI Camp, an innovative course where high school students create real-world products and startups while exploring the frontiers of AI.',
-  "I started this blog to share the insights I learn every day. Most blogs focus on education in Artificial Intelligence and general computer science, while others share the life lessons I've learned.",
+  "普普通通的中学生",
+  '希望学习更多的编程知识和计算机科学知识',
+  '仅此而已'
 ]
 
 // blog
-export const blogHeadLine = "What I've thinking about."
+export const blogHeadLine = "我的博客" 
 export const blogIntro =
-  "I've written something about AI, programming and life."
+  "访问https://gbhf0020.github.io阅读博客。" 
+  
 
 // social links
 export type SocialLinkType = {
@@ -38,9 +39,9 @@ export const socialLinks: Array<SocialLinkType> = [
     href: 'https://github.com/gbhf0020',
   },
   {
-    name: 'Bilibili',
-    icon: 'bilibili',
-    href: 'https://space.bilibili.com/3546842142869935',
+    name: 'X',
+    icon: 'x',
+    href: 'https://twitter.com/gbhf0020',
   },
 ]
 
@@ -68,4 +69,5 @@ export const techIcons = [
   'ios',
   'apple',
   'wechat',
+  'dji'
 ]

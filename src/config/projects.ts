@@ -21,18 +21,20 @@ export const awardsHeadLine = "奖项与荣誉"
 export const awardsIntro = "学术和职业成就的认可。"
 
 export const awards: Array<ActivityItemType> = [
+  /*
   {
-    name: '杰出教师奖',
+    name: '',
     description: '',
-    date: '2024',
-    location: 'SCLS, 上海',
+    date: '',
+    location: '',
   },
   {
-    name: '追影奖',
-    description: '',
-    date: '2023',
-    location: '青浦, 上海',
+    name: '', //奖项名称
+    description: '', //描述
+    date: '', //日期
+    location: '', //地点
   },
+  */
 ]
 
 // 研究与项目
@@ -40,6 +42,7 @@ export const projectHeadLine = "研究与项目"
 export const projectIntro = "我参与的学术研究和技术项目。"
 
 export const projects: Array<ProjectItemType> = [
+  /*
   {
     name: '学生毕业项目作品集',
     description: '静态网站作品集',
@@ -64,6 +67,7 @@ export const projects: Array<ProjectItemType> = [
     link: { href: 'https://scls-cs.gitbook.io/ai-camp', label: '查看课程' },
     tags: ['教育', 'AI']
   },
+  */
 ]
 
 // 爱好与志愿活动
@@ -71,6 +75,7 @@ export const activitiesHeadLine = "爱好与志愿活动"
 export const activitiesIntro = "个人兴趣与社区贡献。"
 
 export const activities: Array<ActivityItemType> = [
+  /*
   {
     name: 'Python 工作坊',
     description:
@@ -94,4 +99,5 @@ export const activities: Array<ActivityItemType> = [
     date: '2024-03-15',
     location: '上海',
   },
+  */
 ]
